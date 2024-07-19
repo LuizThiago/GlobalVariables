@@ -60,10 +60,6 @@ To get a local copy up and running follow these simple example steps.
 
 1. Download or fork this project
 2. Move the content to your Unity project _(if preferred, only the Scripts folder is necessary)_
-4. Enter your API in `config.js`
-   ```c#
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
